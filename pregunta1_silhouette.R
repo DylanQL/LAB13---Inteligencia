@@ -2,6 +2,7 @@
 
 # Cargar librerías necesarias
 library(cluster)
+install.packages("factoextra") # Install the missing package
 library(factoextra)
 
 # Crear la base de datos my_data1

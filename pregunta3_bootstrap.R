@@ -2,6 +2,7 @@
 
 # Cargar librerías necesarias
 library(cluster)
+install.packages("fpc") # Install the missing package
 library(fpc)
 
 # Crear la base de datos my_data1
